@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body> 
+	<h1>Notion Press</h1>
+	<p>Sample test for testing.</p>
+<<<<<<< HEAD
+	<p class="up">Text to check updation made by <b>subbranch</b>.</p>
+=======
+	<p class="up">Text to check updation made by subbranch. To check merge tool</p>
+>>>>>>> newfeatures
+</body>
+</html>
